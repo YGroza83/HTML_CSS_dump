@@ -1,6 +1,6 @@
 # Web Design - Web Visualization Dashboard (Latitude)
 
-### Site is curently live at ygroza.com
+### Site is curently live at https://ygroza.com
 It is hosted on GitHub pages and using a Google Domains as registrar
 
 ### This repo (https://github.com/YGroza83/HTML_CSS_dump) contains all the site matirials +source files used in the production 
